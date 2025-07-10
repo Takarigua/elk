@@ -61,4 +61,6 @@ Filebeat следует сконфигурировать для отправки
 
 ---
 
- 
+ ![1](https://github.com/Takarigua/elk/blob/3a0d4cd9f0d07557b4dcec674f20d187f2856a2c/1.png)
+ ![2](https://github.com/Takarigua/elk/blob/3a0d4cd9f0d07557b4dcec674f20d187f2856a2c/2.png)
+ ![3](https://github.com/Takarigua/elk/blob/3a0d4cd9f0d07557b4dcec674f20d187f2856a2c/3.png)
